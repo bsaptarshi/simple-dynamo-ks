@@ -1,0 +1,1 @@
+/home/saptarshi/Android Studio/SimpleDynamo/app/build/intermediates/classes/release
